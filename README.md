@@ -1,2 +1,2 @@
 # redis
-home worck redis
+#задание 1
